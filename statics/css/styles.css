@@ -102,26 +102,6 @@ section article p
 {
 	text-align: center;
 }
-/* section article ul */
-footer ul
-{
-	text-align: center;
-	padding: 0;
-}
-section article ul li
-{
-	list-style: none;
-	display: inline-block;
-	margin: 35px 20px;
-}
-section article ul li a
-{
-	text-decoration: none;
-	background-color: rgba(255,255,255,0.5);
-	padding: 10px;
-	color: #000;
-	font-weight: 700;
-}
 #Trabajos
 {
 	text-align: center;
@@ -144,13 +124,31 @@ footer
 #Contactame {
 		padding: 30px 0px 0px 0px;
 }
-footer ul li
-{
-	display: inline-block;
-}
 footer p
 {
 	color: #000;
+}
+/* section article ul */
+footer ul
+{
+	text-align: center;
+	padding: 0;
+}
+/* section article ul li */
+footerul li
+{
+	list-style: none;
+	display: inline-block;
+	margin: 35px 20px;
+}
+/* section article ul li a */
+footer ul li a
+{
+	text-decoration: none;
+	background-color: rgba(255,255,255,0.5);
+	padding: 10px;
+	color: #000;
+	font-weight: 700;
 }
 /* #Contacto
 {
