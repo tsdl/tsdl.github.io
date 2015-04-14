@@ -137,10 +137,11 @@ section article figure img
 footer
 {
 	background: #ee7b22;
+	margin: 0px;
 	text-align: center;
 	/* height: 200px; */
 }
-footer div
+/*footer div
 {
 	display: inline-block;
 }
@@ -148,7 +149,7 @@ footer p
 {
 	color: #000;
 }
-/* #Contacto
+ #Contacto
 {
 	width: 20%;
 	margin: 10px 50px;
