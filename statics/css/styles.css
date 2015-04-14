@@ -137,7 +137,7 @@ section article figure img
 footer
 {
 	background: #ee7b22;
-	height: 200px;
+	/* height: 200px; */
 }
 footer div
 {
@@ -185,4 +185,8 @@ form button
 	border-radius: 5px;
 	color: #fff;
 	box-shadow: 2px 2px #000;
+}
+
+#plecanegra {
+	color: #000;
 }
